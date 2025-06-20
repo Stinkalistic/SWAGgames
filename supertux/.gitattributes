@@ -1,1 +1,0 @@
-supertux2.data filter=lfs diff=lfs merge=lfs -text
